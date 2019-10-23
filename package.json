@@ -1,0 +1,22 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "modulo base para el curso de npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelbejarano/npm-introduccion-node-js.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Israel Bejarano Alvarez <israel.bejarano.a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israelbejarano/npm-introduccion-node-js/issues"
+  },
+  "homepage": "https://github.com/israelbejarano/npm-introduccion-node-js#readme"
+}
